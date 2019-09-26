@@ -1,0 +1,8 @@
+{
+  "name": "reify-issue-236",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "reify": "^0.20.12"
+  }
+}
